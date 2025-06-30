@@ -1,0 +1,42 @@
+footer{
+    background-color: #231b3b;
+}
+.info-section{
+    background-color: #8B0000;
+}
+
+.section1{
+    background-color: #8051ff;
+}
+.section2{
+    background-color: #fff207;
+}
+.section3{
+    background-color: #8b0000;
+}
+.section4{
+    background-color: #0580bb;
+}
+.section5{
+    background-color: #c62fd5;
+}
+.section6{
+    background-color: #698897;
+}
+.info-par{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.section-heading{
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.footer-heading{
+    font-size: 22px;
+    font-weight: bold;
+}
+.footer-mail{
+    font-weight: bold;
+    font-size: 15px;
+}
